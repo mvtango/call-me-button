@@ -1,0 +1,8 @@
+{
+	"version": "1.0",
+	"type": "rich",
+	"width": 400,
+	"height": 100,
+	"title": "Call Me",
+    "html" : "<iframe src='https://mvtango.github.io/call-me-button/'></iframe>"
+}
